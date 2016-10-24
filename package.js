@@ -1,7 +1,7 @@
 Package.describe({
   name: 'supaseca:admin-lte',
-  version: '2.3.0',
-  summary: 'AdminLTE v2.3.0 dashboard theme.',
+  version: '2.3.7',
+  summary: 'AdminLTE v2.3.7 dashboard theme.',
   git: 'https://github.com/projik/meteor-admin-lte.git',
   documentation: 'README.md'
 });
