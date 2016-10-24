@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'mfactory:admin-lte',
-  version: '0.0.2',
-  summary: 'AdminLTE dashboard theme',
-  git: 'https://github.com/meteor-factory/meteor-admin-lte.git',
+  name: 'supaseca:admin-lte',
+  version: '2.3.0',
+  summary: 'AdminLTE v2.3.0 dashboard theme.',
+  git: 'https://github.com/projik/meteor-admin-lte.git',
   documentation: 'README.md'
 });
 
